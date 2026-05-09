@@ -1,0 +1,6 @@
+{
+  "name": "TripSplit",
+  "description": "A modern, minimal app for splitting trip expenses among friends with real-time balance calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
